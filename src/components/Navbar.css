@@ -1,0 +1,9 @@
+.nav-grid{
+    display: grid;
+    grid-template-columns: 10% 1fr 10%;
+    align-items: center;
+}
+
+.submenu-item {
+    padding: 5% 0;
+}
