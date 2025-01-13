@@ -617,7 +617,7 @@ function Content() {
 
                         <input className='px-2 py-2 border-solid border border-[#ccc] bg-gray-100 text-base' type="email" placeholder='*Valid Email' />
 
-                        <input className='px-2 py-2 border-solid border border-[#ccc] bg-gray-100 text-base' type="number" name="phone" placeholder='*Your Contact Number' />
+                        <input className='px-2 py-2 border-solid border border-[#ccc] bg-gray-100 text-base' type="tel" name="phone" placeholder='*Your Contact Number' />
 
                         <select className='px-2 py-2 border-solid border border-[#ccc] bg-gray-100 text-base text-gray-600' id="" >
                             <option value="">*Number of Employees</option>
